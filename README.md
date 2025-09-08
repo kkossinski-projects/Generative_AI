@@ -1,1 +1,1 @@
-app.py - is server side chatbox applicatoin
+app.py - is server side chatbox application
